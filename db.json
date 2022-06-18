@@ -27,5 +27,17 @@
     ],
     "profile": {
         "name": "typicode"
+    },
+    "webhook": {
+        "fulfillmentText": "Chúng tôi đang cập nhật tính năng này...",
+        "fulfillmentMessages": [
+            {
+                "text": {
+                    "text": [
+                        "Text response from webhook"
+                    ]
+                }
+            }
+        ]
     }
 }
